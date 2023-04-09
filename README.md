@@ -9,3 +9,4 @@ Package Requirements:
 - pandas
 - numpy
 - cx_Freeze
+- matplotlib
