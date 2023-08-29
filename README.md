@@ -10,3 +10,6 @@ Package Requirements:
 - numpy
 - cx_Freeze
 - matplotlib
+
+## Results:
+![Attendance System in Python](output.png)
